@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32893'
     url: http://www.gutenberg.org/2009/agents/32893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27762#S--de-Miranda-e-a-sua-Obra
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2009-01-10'
 gutenberg_type: Text
